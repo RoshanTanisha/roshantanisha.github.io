@@ -1,0 +1,29 @@
+<blog>
+    <posts>
+        <title>
+            Word2Vec - Understanding through matrices.
+        </title>
+        <link>
+            word2vec.html
+        </link>
+        <date_time>
+            14th Novermber, 2017.
+        </date_time>
+        <short_text>
+            What is word2vec? It is something that on the first go stupefies the reader!
+        </short_text>
+    </posts>
+    <posts>
+        <title>
+            Understanding CNNs
+        </title>
+        <link>
+            cnn.html
+        </link>
+        <date_time>
+        </date_time>
+        <short_text>
+            CNN does not have Avada Kedavra curse!
+        </short_text>
+    </posts>
+</blog>
