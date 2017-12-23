@@ -1,2 +1,4 @@
-#style for the blog
-
+.bgimage{
+    background-image:url("Resources/background_image.jpg");
+    background-repeat:no-repeat;
+}
