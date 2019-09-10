@@ -1,19 +1,8 @@
-.bgimage_body {
-    background-image:url("Resources/pastel.png");
+.image {
+    background-image: url("../Resources/index/TanishaBhayani.jpeg");
+    width: 350px;
+    height: 400px;
+    background-size: auto;
     background-repeat:no-repeat;
-    background-size: 100% 100%;
-}
-
-body{
-    font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
-    font-stretch: align-self;
-    color: ivory;
-    background-image:url("Resources/background1.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-table{
-    border-color: ivory;
-    border-width: 3pt;
+    background-position: right;
 }

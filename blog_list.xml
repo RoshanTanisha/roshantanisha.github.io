@@ -12,6 +12,9 @@
         <short_text>
             What is word2vec? It is something that on the first go stupefies the reader!
         </short_text>
+        <blog_image>
+            blog_images/word2vec/background1.jpg
+        </blog_image>
     </posts>
     <posts>
         <title>
@@ -26,5 +29,8 @@
         <short_text>
             CNN does not have Avada Kedavra curse!
         </short_text>
+        <blog_image>
+            blog_images/cnn/background1.jpg
+        </blog_image>
     </posts>
 </blog>
