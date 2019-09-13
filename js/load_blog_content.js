@@ -1,10 +1,10 @@
 //@author: Tanisha R. Bhayani
 
-console.log("script script.js loaded...");
+console.log("script load_blog_content.js loaded...");
 
 (document.onready= function () {
     console.log('document loaded');
-    short_content_url = "blog_list.xml";
+    short_content_url = "xmls/blog_list.xml";
 
     let xhr = new XMLHttpRequest();
     xhr.open('GET', short_content_url);

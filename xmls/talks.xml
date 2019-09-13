@@ -1,0 +1,96 @@
+<talks>
+    <session>
+        <title>
+            Machine Learning For Imbalanced Class Distributions
+        </title>
+        <place>
+            Ahmedabad
+        </place>
+        <organizer>
+            GDG Ahmedabad, Women TechMakers
+        </organizer>
+        <organizer_link>
+            https://www.meetup.com/GDG-Ahmedabad/events/259071087/
+        </organizer_link>
+        <date>
+            24th February, 2019
+        </date>
+        <gist>
+            We could easily overfit machine learning with the data we have, but the quest to reduce the generalization errors, have pushed the Machine Learning researchers to implement new algorithms, and one of the criterion in Supervised Machine Learning, the balance of data distributions is important, but most of the real life datasets are imbalanced, and this gives the zeal to study new algorithms to drive business and research forward. There are various methods at data level and at algorithm level that solves this problem, we will discuss both of them and try to implement both the methods, in this hands-on session.
+        </gist>
+        <link>
+            https://speakerdeck.com/roshantanisha/machine-learning-for-imbalanced-class-distributions
+        </link>
+        <code>
+            <code_title>
+                Customer Churn Prediction
+            </code_title>
+            <code_link>
+                https://github.com/RoshanTanisha/ML_GDG
+            </code_link>
+        </code>
+    </session>
+    <session>
+        <title>
+            Latest Trends and Innovation: Industry 4.0
+        </title>
+        <place>
+            Ahmedabad
+        </place>
+        <organizer>
+            IPN (Ismaili Professional Network), Ahmedabad Chapter
+        </organizer>
+        <organizer_link>
+            https://www.facebook.com/groups/ipnahmedabad/
+        </organizer_link>
+        <date>
+            4th August, 2019
+        </date>
+        <gist>
+            With the resurgence of AI technologies and great research work done by the companies and academicians, what could we as a developer do to withstand the AI wave? The Industry 4.0 is all about Cloud, ML, IOT, which leads to use cases such as smart factories and smart cities. How do we withstand this change? The main skills to learn currently are the cloud (any provider - Google, AWS, Azure), and integrate your ML models with them, if you know these two things, you are good to earn a bread in a city. But understanding ML is a pain, and not just as simple as training a neural network shown on tensorflow website, or importing any ML library. We'll discuss the career path needed to start with AI, and understand what AI is correctly.
+        </gist>
+        <link>
+            https://speakerdeck.com/roshantanisha/session-lecture
+        </link>
+    </session>
+    <session>
+        <title>
+            Machine Learning For InfoSec
+        </title>
+        <place>
+            Ahmedabad
+        </place>
+        <organizer>
+            Null Ahmedabad
+        </organizer>
+        <organizer_link>
+            https://null.co.in/events/637-ahmedabad-null-ahmedabad-bachaav-17-august-2019-machine-learning-for-infosec
+        </organizer_link>
+        <date>
+            17th August, 2019
+        </date>
+        <gist>
+            An introductory lecture on Machine Learning and visualizing what neural networks learn for the people
+            of the cyber security domain.
+        </gist>
+        <link>
+            https://speakerdeck.com/roshantanisha/machine-learning-for-infosec
+        </link>
+        <code>
+            <code_title>
+                URL Classification
+            </code_title>
+            <code_link>
+                https://github.com/RoshanTanisha/url-classification
+            </code_link>
+        </code>
+        <code>
+            <code_title>
+                MNIST Different Ways
+            </code_title>
+            <code_link>
+                https://github.com/RoshanTanisha/MNIST_ALL
+            </code_link>
+        </code>
+    </session>
+</talks>
