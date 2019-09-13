@@ -1,0 +1,33 @@
+<research>
+    <research_paper>
+        <title>
+            FX OPTIMIZER: SUCCESSOR TO ADAM OPTIMIZER USING BATCH WISE MOVING AVERAGES.
+        </title>
+        <abstract>
+            The random distribution of the input data creates an imbalance in learning parameters, this causes some
+            inputs’ patterns to be learned fast while others to be slow, and because of this, there is a subtle
+            increase in the time the parameters takes to converge, this could be improved by storing the moving
+            averages of the individual batches of the trainable variables. This lets the parameter update step to use
+            the previous information about the same batch to update the parameters in the current batch. The paper
+            presents an optimizer named Fx Optimizer, which is a first order optimizer, similar to ADAM Optimizer in
+            the property but maintains the batch moving averages for each weight and converges faster and better than
+            ADAM. This is shown experimentally on MNIST data-set. The intuition of the Optimizer comes from how the
+            brain may take more or less time to learn different types of inputs from same class based on high or low
+            complexity of input.
+        </abstract>
+        <link>
+            https://pdfs.semanticscholar.org/2ce7/b7d2599652a5b57f919a17977a5323a5c78b.pdf
+        </link>
+    </research_paper>
+    <research_paper>
+        <title>
+            R-Algorithm
+        </title>
+        <abstract>
+            R algorithm is an algorithm that optimizes the naive string matching algorithm by 40-50 %.
+        </abstract>
+        <link>
+            Unpublished
+        </link>
+    </research_paper>
+</research>
