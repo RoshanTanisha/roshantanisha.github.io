@@ -1,13 +1,71 @@
 <projects>
     <project>
         <title>
-
+            Medical Report Parser and Search
         </title>
         <description>
-
+            Parsing of Medical Reports and Searching for specific terms using full-text search.
         </description>
         <tech_stack>
-
+            Python, PHP, ElasticSearch.
+        </tech_stack>
+    </project>
+    <project>
+        <title>
+            Music Year Prediction
+        </title>
+        <description>
+            Predicting the year of Music release, from the sound features. Achieving Mean Absolute Error of 6.76016
+            on test dataset.
+        </description>
+        <tech_stack>
+            Python, tflearn, sklearn.
+        </tech_stack>
+    </project>
+    <project>
+        <title>
+            Samyañc – My Spiritual Guru.
+        </title>
+        <description>
+            Samyañc - My Spiritual Guru: `thelogicalkoan` is a closed domain question answering system for the spirituality domain, answering the question on the basis of the word-to-word English translated version of Shrimad Bhagavad Gita. The system uses Natural Language Processing and Understanding techniques with multiple data representations for fetching the answer. Several algorithms are designed to implement the system. Studied various research papers on NLP and QA Systems, thus selected and implemented the best fit for the system. The system is properly tested with different kinds of test cases to which it responds correctly.
+        </description>
+        <tech_stack>
+            Python, PHP, XML-RPC, NLTK
+        </tech_stack>
+    </project>
+    <project>
+        <title>
+            Matrix Library for C language
+        </title>
+        <description>
+            I have tried to designed a matrix library for doing matrix related operations in C Language. There are still
+            many operations left to be implemented.
+        </description>
+        <tech_stack>
+            C
+        </tech_stack>
+    </project>
+    <project>
+        <title>
+            Smart Alarm
+        </title>
+        <description>
+            Smart Alarm is planned to be an Android Application which would follow the specific pattern to wake up
+            the person at the right time, using the online perceptron learning algorithm.
+        </description>
+        <tech_stack>
+            C++, Android
+        </tech_stack>
+    </project>
+    <project>
+        <title>
+            What's Cooking
+        </title>
+        <description>
+            Predict the cuisine from the list of ingredients. I achieved an accuracy of 76.758%
+        </description>
+        <tech_stack>
+            Python, sklearn, pandas, numpy
         </tech_stack>
     </project>
 </projects>
