@@ -35,7 +35,7 @@ function handle_xml_document(xml_document) {
     $xml.find('posts').each(function() {
         $appended = false;
         $link = $(this).find("link").text().trim();
-        $title = '<a href="' + $link + '"><h5 class="card-title text-xl-center">' + $(this).find("title").text().trim() + '</h5></a>';
+        $title = '<a href="' + $link + '"><h5 class="card-title text-xl-center font-weight-bold">' + $(this).find("title").text().trim() + '</h5></a>';
         $datetime = '<small class="card-subtitle">' + $(this).find("date_time").text().trim() + '</small>';
         $blog_image = '<img alt="' + $(this).find("short_text").text().trim() +'" src="' +
         $(this).find("blog_image").text().trim() + '" class="card-img">';

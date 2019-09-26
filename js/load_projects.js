@@ -25,9 +25,9 @@ function handle_xml_document(xmlString) {
     }else {
         $xml = $(xmlString);
         $xml.find('project').each(function(){
-            $title = '<div class="popover-header">' + $(this).find("title").text().trim() + '</div>';
+            $title = '<div class="popover-header font-weight-bold">' + $(this).find("title").text().trim() + '</div>';
             $description = '<div class="popover-body text-justify">' + $(this).find("description").text().trim() + '</div>';
-            $tech_stack = '<div class="popover-body"> Tech Stack: ' + $(this).find("tech_stack").text().trim() + '</div>';
+            $tech_stack = '<div class="popover-body"> <u class="font-weight-bold">Tech Stack:</u> ' + $(this).find("tech_stack").text().trim() + '</div>';
             $("#content").append('<div class="container container-fluid">' + $title + $description + $tech_stack + '</div>');
         });
     }

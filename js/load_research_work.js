@@ -27,7 +27,7 @@ function handle_xml_document(xmlString) {
         $xml.find('research_paper').each(function(){
             $link = $(this).find("link").text().trim();
             if ($link === 'Unpublished') {
-                $title = '<div class="popover-header text-justify">' + $(this).find("title").text().trim() + '[' + $link + ']</div>';
+                $title = '<div class="popover-header text-justify font-weight-bold">' + $(this).find("title").text().trim() + '[' + $link + ']</div>';
             }else{
                 $title = '<div class="popover-header text-justify"><a href="' + $link + '">' + $(this).find("title").text().trim() + '</a></div>';
             }

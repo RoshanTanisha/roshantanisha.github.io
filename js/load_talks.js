@@ -25,7 +25,7 @@ function handle_xml_document(xmlString) {
     }else {
         $xml = $(xmlString);
         $xml.find('session').each(function(){
-            $title = '<div class="popover-header text-justify">' + $(this).find("title").text().trim() + '</div>';
+            $title = '<div class="popover-header text-justify font-weight-bold">' + $(this).find("title").text().trim() + '</div>';
             $gist = '<div class="popover-body text-justify">' + $(this).find("gist").text().trim() + '</div>';
             $organizer_link = $(this).find("organizer_link").text().trim();
             $organizer = '<div class="container"><a href="' + $organizer_link + '" class="page-link' +
