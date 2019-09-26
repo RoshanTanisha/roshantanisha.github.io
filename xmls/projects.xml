@@ -1,13 +1,26 @@
 <projects>
     <project>
         <title>
+            Loan Default Prediction
+        </title>
+        <description>
+            Created a web app, for getting predictions whether a loan applicant will default or not using their
+            current loan details, and their previous loan details. The model testing is done using AUROC score.
+        </description>
+        <tech_stack>
+            Python, Laravel, Angular, sklearn, LightGBM, XGBoost, tflearn, Jupyter Notebook.
+        </tech_stack>
+    </project>
+    <project>
+        <title>
             Medical Report Parser and Search
         </title>
         <description>
-            Parsing of Medical Reports and Searching for specific terms using full-text search.
+            Created a python OOP software which would take the folder path and its sub folders to find the medical
+            reports to parse it into a semi-structured JSON format.
         </description>
         <tech_stack>
-            Python, PHP, ElasticSearch.
+            Python, PHP, ElasticSearch, NLTK.
         </tech_stack>
     </project>
     <project>
