@@ -25,6 +25,18 @@
     </project>
     <project>
         <title>
+            IEEE-CIS Fraud Detection
+        </title>
+        <description>
+            Predict whether the current transaction is fraudulent or not from the given transaction data. Achieved
+            the accuracy score of 92.4989 % on test data.
+        </description>
+        <tech_stack>
+            Python, Jupyter Notebook, sklearn, LightGBM, pandas, numpy.
+        </tech_stack>
+    </project>
+    <project>
+        <title>
             Music Year Prediction
         </title>
         <description>
