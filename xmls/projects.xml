@@ -1,6 +1,18 @@
 <projects>
     <project>
         <title>
+            Google Code-In Mentorship
+        </title>
+        <description>
+            A two month coding program by Google, where this time in 2019, I'll be a mentor for pre-university
+            students for tensorflow organization. I'll be creating tasks and reviewing them once they are complete.
+        </description>
+        <tech_stack>
+            TensorFlow
+        </tech_stack>
+    </project>
+    <project>
+        <title>
             Loan Default Prediction
         </title>
         <description>
