@@ -93,4 +93,39 @@
             </code_link>
         </code>
     </session>
+    <session>
+        <title>
+            Capsule Program organized @ PDPU by SilverTouch Techlabs Ltd.
+        </title>
+        <place>
+            Gandhinagar
+        </place>
+        <organizer>
+            SilverTouch TechLabs Ltd. @ Pandit Deendayal Petroleum University
+        </organizer>
+        <organizer_link>
+            https://www.silvertouch.com/
+        </organizer_link>
+        <date>
+            17th November, 2019
+        </date>
+        <gist>
+            I was invited to take a lecture on Computer Vision and OpenCV by SilverTouch TechLabs Ltd. at Pandit
+            Deendayal Petroleum University as part of the Capsule Programme for 3rd Semester students.
+            The day 3 was on Computer Vision and OpenCV, I taught students what is Computer Vision, its current
+            latest research trends, and where Computer Vision applications are used. Also, hands-on coding session
+            was conducted to create a real-time face detection using the webcam.
+        </gist>
+        <link>
+            https://speakerdeck.com/roshantanisha/computer-vision-and-opencv
+        </link>
+        <code>
+            <code_title>
+                OpenCV Scripts Examples with Real Time Face Detection (Modularized Code)
+            </code_title>
+            <code_link>
+                https://github.com/RoshanTanisha/OpenCVExamples
+            </code_link>
+        </code>
+    </session>
 </talks>
