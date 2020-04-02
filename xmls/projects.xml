@@ -1,14 +1,15 @@
 <projects>
     <project>
         <title>
-            Google Code-In Mentorship
+            COVID19 X-RAY Images Classification
         </title>
         <description>
-            A two month coding program by Google, where this time in 2019, I'll be a mentor for pre-university
-            students for tensorflow organization. I'll be creating tasks and reviewing them once they are complete.
+            Created a UNet based classifier that would classify whether the X-RAY images are infected
+            by COVID19 or not. With 136 COVID19 images and 100 normal images, trained on 188 train images and
+            validated on 48 images, achieved validation accuracy of ~85%.
         </description>
         <tech_stack>
-            TensorFlow
+            Keras, SimpleITK, Python
         </tech_stack>
     </project>
     <project>
