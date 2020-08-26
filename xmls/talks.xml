@@ -1,57 +1,87 @@
 <talks>
     <session>
         <title>
-            Machine Learning For Imbalanced Class Distributions
+            Deep Convolutional Neural Networks
         </title>
         <place>
-            Ahmedabad
+            Hyderabad
         </place>
         <organizer>
-            GDG Ahmedabad, Women TechMakers
+            Goal Street, International Workshop on Deep Learning
         </organizer>
         <organizer_link>
-            https://www.meetup.com/GDG-Ahmedabad/events/259071087/
+            https://www.mygoalstreet.com/workshops/deeplearning/
         </organizer_link>
         <date>
-            24th February, 2019
+            26th August, 2020
         </date>
         <gist>
-            We could easily overfit machine learning with the data we have, but the quest to reduce the generalization errors, have pushed the Machine Learning researchers to implement new algorithms, and one of the criterion in Supervised Machine Learning, the balance of data distributions is important, but most of the real life datasets are imbalanced, and this gives the zeal to study new algorithms to drive business and research forward. There are various methods at data level and at algorithm level that solves this problem, we will discuss both of them and try to implement both the methods, in this hands-on session.
+            Convolutional Neural Networks are almost everywhere where AI decision making is done. Understanding them is the main thing to build a successful neural network which could be used in production. Here I presented the basic building blocks of the CNN models, and how and where they fail.
         </gist>
         <link>
-            https://speakerdeck.com/roshantanisha/machine-learning-for-imbalanced-class-distributions
+            https://speakerdeck.com/roshantanisha/international-conference-on-deep-learning
         </link>
-        <code>
-            <code_title>
-                Customer Churn Prediction
-            </code_title>
-            <code_link>
-                https://github.com/RoshanTanisha/ML_GDG
-            </code_link>
-        </code>
     </session>
     <session>
         <title>
-            Latest Trends and Innovation: Industry 4.0
+            Career in AI
         </title>
         <place>
-            Ahmedabad
+            Online
         </place>
         <organizer>
-            IPN (Ismaili Professional Network), Ahmedabad Chapter
+            Aga Khan Education Board for India
         </organizer>
         <organizer_link>
-            https://www.facebook.com/groups/ipnahmedabad/
+            https://www.akdn.org/our-agencies/aga-khan-foundation/scholarship/contact-addresses-aga-khan-education-servicesaga-khan
         </organizer_link>
         <date>
-            4th August, 2019
+            5th April, 2020
         </date>
         <gist>
-            With the resurgence of AI technologies and great research work done by the companies and academicians, what could we as a developer do to withstand the AI wave? The Industry 4.0 is all about Cloud, ML, IOT, which leads to use cases such as smart factories and smart cities. How do we withstand this change? The main skills to learn currently are the cloud (any provider - Google, AWS, Azure), and integrate your ML models with them, if you know these two things, you are good to earn a bread in a city. But understanding ML is a pain, and not just as simple as training a neural network shown on tensorflow website, or importing any ML library. We'll discuss the career path needed to start with AI, and understand what AI is correctly.
+            As a mentor for the AI/ML/DS Track in the Cycle 4 for the Reach For the Stars programme by AKEBI,
+            I was invited to take a very introductory webinar on careers in AI. The webinar mainly focused on
+            how the early college students start with AI, and what AI actually is. Different roles wherein AI
+            is used, and what tools and technology they need to learn to succeed.
         </gist>
         <link>
-            https://speakerdeck.com/roshantanisha/session-lecture
+            https://speakerdeck.com/roshantanisha/career-in-ai
         </link>
+    </session>
+    <session>
+        <title>
+            Capsule Program organized @ PDPU by SilverTouch Techlabs Ltd.
+        </title>
+        <place>
+            Gandhinagar
+        </place>
+        <organizer>
+            SilverTouch TechLabs Ltd. @ Pandit Deendayal Petroleum University
+        </organizer>
+        <organizer_link>
+            https://www.silvertouch.com/
+        </organizer_link>
+        <date>
+            17th November, 2019
+        </date>
+        <gist>
+            I was invited to take a lecture on Computer Vision and OpenCV by SilverTouch TechLabs Ltd. at Pandit
+            Deendayal Petroleum University as part of the Capsule Programme for 3rd Semester students.
+            The day 3 was on Computer Vision and OpenCV, I taught students what is Computer Vision, its current
+            latest research trends, and where Computer Vision applications are used. Also, hands-on coding session
+            was conducted to create a real-time face detection using the webcam.
+        </gist>
+        <link>
+            https://speakerdeck.com/roshantanisha/computer-vision-and-opencv
+        </link>
+        <code>
+            <code_title>
+                OpenCV Scripts Examples with Real Time Face Detection (Modularized Code)
+            </code_title>
+            <code_link>
+                https://github.com/RoshanTanisha/OpenCVExamples
+            </code_link>
+        </code>
     </session>
     <session>
         <title>
@@ -95,86 +125,56 @@
     </session>
     <session>
         <title>
-            Capsule Program organized @ PDPU by SilverTouch Techlabs Ltd.
+            Latest Trends and Innovation: Industry 4.0
         </title>
         <place>
-            Gandhinagar
+            Ahmedabad
         </place>
         <organizer>
-            SilverTouch TechLabs Ltd. @ Pandit Deendayal Petroleum University
+            IPN (Ismaili Professional Network), Ahmedabad Chapter
         </organizer>
         <organizer_link>
-            https://www.silvertouch.com/
+            https://www.facebook.com/groups/ipnahmedabad/
         </organizer_link>
         <date>
-            17th November, 2019
+            4th August, 2019
         </date>
         <gist>
-            I was invited to take a lecture on Computer Vision and OpenCV by SilverTouch TechLabs Ltd. at Pandit
-            Deendayal Petroleum University as part of the Capsule Programme for 3rd Semester students.
-            The day 3 was on Computer Vision and OpenCV, I taught students what is Computer Vision, its current
-            latest research trends, and where Computer Vision applications are used. Also, hands-on coding session
-            was conducted to create a real-time face detection using the webcam.
+            With the resurgence of AI technologies and great research work done by the companies and academicians, what could we as a developer do to withstand the AI wave? The Industry 4.0 is all about Cloud, ML, IOT, which leads to use cases such as smart factories and smart cities. How do we withstand this change? The main skills to learn currently are the cloud (any provider - Google, AWS, Azure), and integrate your ML models with them, if you know these two things, you are good to earn a bread in a city. But understanding ML is a pain, and not just as simple as training a neural network shown on tensorflow website, or importing any ML library. We'll discuss the career path needed to start with AI, and understand what AI is correctly.
         </gist>
         <link>
-            https://speakerdeck.com/roshantanisha/computer-vision-and-opencv
+            https://speakerdeck.com/roshantanisha/session-lecture
+        </link>
+    </session>
+    <session>
+        <title>
+            Machine Learning For Imbalanced Class Distributions
+        </title>
+        <place>
+            Ahmedabad
+        </place>
+        <organizer>
+            GDG Ahmedabad, Women TechMakers
+        </organizer>
+        <organizer_link>
+            https://www.meetup.com/GDG-Ahmedabad/events/259071087/
+        </organizer_link>
+        <date>
+            24th February, 2019
+        </date>
+        <gist>
+            We could easily overfit machine learning with the data we have, but the quest to reduce the generalization errors, have pushed the Machine Learning researchers to implement new algorithms, and one of the criterion in Supervised Machine Learning, the balance of data distributions is important, but most of the real life datasets are imbalanced, and this gives the zeal to study new algorithms to drive business and research forward. There are various methods at data level and at algorithm level that solves this problem, we will discuss both of them and try to implement both the methods, in this hands-on session.
+        </gist>
+        <link>
+            https://speakerdeck.com/roshantanisha/machine-learning-for-imbalanced-class-distributions
         </link>
         <code>
             <code_title>
-                OpenCV Scripts Examples with Real Time Face Detection (Modularized Code)
+                Customer Churn Prediction
             </code_title>
             <code_link>
-                https://github.com/RoshanTanisha/OpenCVExamples
+                https://github.com/RoshanTanisha/ML_GDG
             </code_link>
         </code>
-    </session>
-    <session>
-        <title>
-            Career in AI
-        </title>
-        <place>
-            Online
-        </place>
-        <organizer>
-            Aga Khan Education Board for India
-        </organizer>
-        <organizer_link>
-            https://www.akdn.org/our-agencies/aga-khan-foundation/scholarship/contact-addresses-aga-khan-education-servicesaga-khan
-        </organizer_link>
-        <date>
-            5th April, 2020
-        </date>
-        <gist>
-            As a mentor for the AI/ML/DS Track in the Cycle 4 for the Reach For the Stars programme by AKEBI,
-            I was invited to take a very introductory webinar on careers in AI. The webinar mainly focused on
-            how the early college students start with AI, and what AI actually is. Different roles wherein AI
-            is used, and what tools and technology they need to learn to succeed.
-        </gist>
-        <link>
-            https://speakerdeck.com/roshantanisha/career-in-ai
-        </link>
-    </session>
-    <session>
-        <title>
-            Deep Convolutional Neural Networks
-        </title>
-        <place>
-            Hyderabad
-        </place>
-        <organizer>
-            Goal Street
-        </organizer>
-        <organizer_link>
-            https://www.mygoalstreet.com/workshops/deeplearning/
-        </organizer_link>
-        <date>
-            26th August, 2020
-        </date>
-        <gist>
-            Convolutional Neural Networks are almost everywhere where AI decision making is done. Understanding them is the main thing to build a successful neural network which could be used in production. Here I presented the basic building blocks of the CNN models, and how and where they fail.
-        </gist>
-        <link>
-            https://speakerdeck.com/roshantanisha/international-conference-on-deep-learning
-        </link>
     </session>
 </talks>
