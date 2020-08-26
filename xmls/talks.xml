@@ -154,4 +154,27 @@
             https://speakerdeck.com/roshantanisha/career-in-ai
         </link>
     </session>
+    <session>
+        <title>
+            Deep Convolutional Neural Networks
+        </title>
+        <place>
+            Hyderabad
+        </place>
+        <organizer>
+            Goal Street
+        </organizer>
+        <organizer_link>
+            https://www.mygoalstreet.com/workshops/deeplearning/
+        </organizer_link>
+        <date>
+            26th August, 2020
+        </date>
+        <gist>
+            Convolutional Neural Networks are almost everywhere where AI decision making is done. Understanding them is the main thing to build a successful neural network which could be used in production. Here I presented the basic building blocks of the CNN models, and how and where they fail.
+        </gist>
+        <link>
+            https://speakerdeck.com/roshantanisha/international-conference-on-deep-learning
+        </link>
+    </session>
 </talks>
