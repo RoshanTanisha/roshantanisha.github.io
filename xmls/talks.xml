@@ -1,6 +1,29 @@
 <talks>
     <session>
         <title>
+            Deep Convolutional Neural Networks and Future
+        </title>
+        <place>
+            Bay Area
+        </place>
+        <organizer>
+            Bay Area Women in Machine Learning & Data Science
+        </organizer>
+        <organizer_link>
+            https://www.meetup.com/Bay-Area-Women-in-Machine-Learning-and-Data-Science/events/274038207/
+        </organizer_link>
+        <date>
+            25th October, 2020
+        </date>
+        <gist>
+            Convolutional Neural Networks, works on paradigm of sharing of weights in AI thereby creating kernels that filter information from the data. This simple idea along with open-source frameworks lead to many astounding work in DL community, along with implications in many business products that we use daily. We will understand CNNs as the basic level and try to brainstorm what holds for this architectural model in the future given new models and methods to train neural networks.
+        </gist>
+        <link>
+            https://speakerdeck.com/roshantanisha/deep-convolutional-neural-networks-and-future
+        </link>
+    </session>
+    <session>
+        <title>
             Deep Convolutional Neural Networks
         </title>
         <place>
