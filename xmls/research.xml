@@ -24,7 +24,7 @@
             R-Algorithm
         </title>
         <abstract>
-            R algorithm is an algorithm that optimizes the naive string matching algorithm by 40-50 %.
+            R algorithm is an algorithm that is better than the naive string matching algorithm by 40-50%, and by same amount than KMP algorithm in worst case.
         </abstract>
         <link>
             Unpublished
