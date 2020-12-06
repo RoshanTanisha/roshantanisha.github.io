@@ -28,6 +28,8 @@ function handle_xml_document(xmlString) {
             $link = $(this).find("link").text().trim();
             if ($link === 'Unpublished') {
                 $title = '<div class="popover-header text-justify font-weight-bold">' + $(this).find("title").text().trim() + '[' + $link + ']</div>';
+            }else if ($link == 'Work in Progress'){
+                $title = '<div class="popover-header text-justify font-weight-bold">' + $(this).find("title").text().trim() + '[' + $link + ']</div>';
             }else{
                 $title = '<div class="popover-header text-justify"><a href="' + $link + '">' + $(this).find("title").text().trim() + '</a></div>';
             }

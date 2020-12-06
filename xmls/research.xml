@@ -1,6 +1,28 @@
 <research>
     <research_paper>
         <title>
+            R-Algorithm
+        </title>
+        <abstract>
+            R algorithm is an algorithm that is better than the naive string matching algorithm by 40-50%, and by same amount than KMP algorithm in worst case.
+        </abstract>
+        <link>
+            Work in Progress
+        </link>
+    </research_paper>
+    <research_paper>
+        <title>
+            Predicting Age and Gender from Facial Images using CNN and Fine-Tuning Pre-trained models.[CVIP 2020 accepted]
+        </title>
+        <abstract>
+            Predicting Age and Gender is a difficult task, in this work I ideated and created network architecture, created training methodologies and tricks including Feature Level and Score Level fusion to improve the result on Age and Gender prediction, the result being able to achieve SOTA level performance on both task on UTK Face database.
+        </abstract>
+        <link>
+            https://cvip2020.iiita.ac.in/accepted.php#25
+        </link>
+    </research_paper>
+    <research_paper>
+        <title>
             FX OPTIMIZER: SUCCESSOR TO ADAM OPTIMIZER USING BATCH WISE MOVING AVERAGES.[ICLR 2018 submitted]
         </title>
         <abstract>
@@ -17,28 +39,6 @@
         </abstract>
         <link>
             https://pdfs.semanticscholar.org/2ce7/b7d2599652a5b57f919a17977a5323a5c78b.pdf
-        </link>
-    </research_paper>
-    <research_paper>
-        <title>
-            R-Algorithm
-        </title>
-        <abstract>
-            R algorithm is an algorithm that is better than the naive string matching algorithm by 40-50%, and by same amount than KMP algorithm in worst case.
-        </abstract>
-        <link>
-            Unpublished
-        </link>
-    </research_paper>
-    <research_paper>
-        <title>
-            Predicting Age and Gender from Facial Images using CNN and Fine-Tuning Pre-trained models.[CVIP 2020 accepted]
-        </title>
-        <abstract>
-            Predicting Age and Gender is a difficult task, in this work I ideated and created network architecture, created training methodologies and tricks including Feature Level and Score Level fusion to improve the result on Age and Gender prediction, the result being able to achieve SOTA level performance on both task on UTK Face database.
-        </abstract>
-        <link>
-            https://cvip2020.iiita.ac.in/accepted.php#25
         </link>
     </research_paper>
 </research>
