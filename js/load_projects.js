@@ -24,8 +24,6 @@ function handle_xml_document(xmlString) {
         return;
     }else {
         $xml = $(xmlString);
-        $num_projs_row = 5;
-        $total = $xml.find('project').length;
         $xml.find('project').each(function(index, value){
             
             $title = '<div class="popover-header font-weight-bold">' + $(this).find("title").text().trim() + '</div>';
