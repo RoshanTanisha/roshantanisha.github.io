@@ -27,15 +27,12 @@ function handle_xml_document(xmlString) {
         $xml.find('project').each(function(){
             
             $title = '<div class="popover-header font-weight-bold">' + $(this).find("title").text().trim() + '</div>';
-            console.log("title=  ", $title);
+
             $description = '<div class="popover-body text-justify">' + $(this).find("description").text().trim() + '</div>';
-            console.log("desc="+$description);
             
             $tech_stack = '<div class="popover-body"> <u class="font-weight-bold">Tech Stack:</u> ' + $(this).find("tech_stack").text().trim() + '</div>';
-            console.log("tech stack = ", $tech_stack);
             
             $("#content").append('<div class="container container-fluid">' + $title + $description + $tech_stack + '</div>');
-            console.log("---------");
             
         });
     }
