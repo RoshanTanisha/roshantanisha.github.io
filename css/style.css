@@ -6,3 +6,52 @@
     background-repeat:no-repeat;
     background-position: right;
 }
+
+
+.flip-card {
+    background-color: transparent;
+    width: 400px;
+    height: 450px;
+    border: 1px solid #ddcfcf;
+    perspective: 1000px;
+}
+
+.flip-card-inner {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    vertical-align: center;
+    transition: transform 1s;
+    transform-style: preserve-3d;
+}
+
+.flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+}
+
+.flip-card-style {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    backface-visibility: hidden;
+    text-align: center;
+    vertical-align: center;
+}
+
+.flip-card-front {
+    background-color: ivory;
+    font-size: 50px;
+    color: navy;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+.flip-card-back {
+    background-color: ivory;
+    transform: rotateY(180deg);
+    font-size: 20px;
+    color: navy;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
