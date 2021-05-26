@@ -1,10 +1,10 @@
 .image {
     background-image: url("../Resources/index/tanisha4.png");
-    width: 350px;
+    width: 550px;
     height: 270px;
-    background-size: auto;
+    background-size: inherit;
     background-repeat:no-repeat;
-    background-position: right;
+    background-position: center;
 }
 
 
