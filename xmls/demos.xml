@@ -8,4 +8,13 @@
     <video_source>
         https://www.youtube.com/embed/71F77t00d5A
     </video_source>
+    <title>
+        Generating creative writing for resumes using GPT
+    </title>
+    <description>
+        A demo for generating creative writing for resumes using GPT based model, specifically writing experiences that highlight skills.
+    </description>
+    <video_source>
+        https://www.youtube.com/embed/mLRGPWboH7w
+    </video_source>
 </demos>
