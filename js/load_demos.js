@@ -24,7 +24,7 @@ function handle_xml_document(xmlString) {
         return;
     }else {
         $xml = $(xmlString);
-        $xml.find('demos').each(function(){
+        $xml.find('demo').each(function(){
             
             $title = '<div class="popover-header font-weight-bold">' + $(this).find("title").text().trim() + '</div>';
 
@@ -33,7 +33,6 @@ function handle_xml_document(xmlString) {
             $tech_stack = '<div class="popover-body"> <u class="font-weight-bold">Video on youtube:</u> <br><iframe width="500" height="360" src="'  + $(this).find("video_source").text().trim() + '"></iframe></div>';
             
             $("#content").append('<div class="container container-fluid">' + $title + $description + $tech_stack + '</div>');
-            
         });
     }
 }
