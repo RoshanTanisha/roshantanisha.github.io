@@ -23,6 +23,7 @@
     </project>
     <project>
         <title>Implementing Data poisoining attacks in federated learning environment and how to combat them
+        </title>
         <description>
             Implemented a series of paper in the domain of federated learning environment for the non-iid data where data poisoining attacks are done and implemented several ways from different research paper on how to spot the client on which the attack is made and how to update the global model weights which does not contain these wrongly tempered weights. Visualized the results. Implemented DDPG algorithm that would select the client properly.
         </description>

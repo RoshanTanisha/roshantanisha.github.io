@@ -8,10 +8,8 @@ console.log('load_talk.js loaded...');
     let xhr = new XMLHttpRequest();
     xhr.open('GET', xml_document);
     xhr.onreadystatechange = function(){
-        console.log(xhr.status);
         if (xhr.status === 200) {
             let xmlString = xhr.responseXML;
-            console.log(xmlString);
             handle_xml_document(xmlString);
         }
     };
