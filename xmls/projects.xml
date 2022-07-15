@@ -1,6 +1,48 @@
 <projects>
     <project>
         <title>
+            Samyañc – My Spiritual Guru.
+        </title>
+        <description>
+            Samyañc - My Spiritual Guru: `thelogicalkoan` is a closed domain question answering system for the spirituality domain, answering the question on the basis of the word-to-word English translated version of Shrimad Bhagavad Gita. The system uses Natural Language Processing and Understanding techniques with multiple data representations for fetching the answer. Several algorithms are designed to implement the system. Studied various research papers on NLP and QA Systems, thus selected and implemented the best fit for the system. The system is properly tested with different kinds of test cases to which it responds correctly.
+        </description>
+        <tech_stack>
+            Python, PHP, XML-RPC, NLTK
+        </tech_stack>
+    </project>
+    <project>
+        <title>
+            Image Search and Classification using RL and Score and Feature Fusion model
+        </title>
+        <description>
+            Implemented score fusion and feature fusion for image book classification model. Implemented Feature fusion model of the ensemble of the text and image features. Implemented RL algorithm for searching the similar image from a query image.
+        </description>
+        <tech_stack>
+            Python, keras, openai-gym
+        </tech_stack>
+    </project>
+    <project>
+        <title>Implementing Data poisoining attacks in federated learning environment and how to combat them
+        <description>
+            Implemented a series of paper in the domain of federated learning environment for the non-iid data where data poisoining attacks are done and implemented several ways from different research paper on how to spot the client on which the attack is made and how to update the global model weights which does not contain these wrongly tempered weights. Visualized the results. Implemented DDPG algorithm that would select the client properly.
+        </description>
+        <tech_stack>
+            Python, keras
+        </tech_stack>
+    </project>
+    <project>
+        <title>
+            Video summary generation using BART like architecture
+        </title>
+        <description>
+            Generating summary of the video directly from it rather than subtitle using BART like architecture.
+        </description>
+        <tech_stack>
+            Python, transformers, torch
+        </tech_stack>
+    </project>
+    <project>
+        <title>
             COVID19 X-RAY Images Classification
         </title>
         <description>
@@ -58,17 +100,6 @@
         </description>
         <tech_stack>
             Python, tflearn, sklearn.
-        </tech_stack>
-    </project>
-    <project>
-        <title>
-            Samyañc – My Spiritual Guru.
-        </title>
-        <description>
-            Samyañc - My Spiritual Guru: `thelogicalkoan` is a closed domain question answering system for the spirituality domain, answering the question on the basis of the word-to-word English translated version of Shrimad Bhagavad Gita. The system uses Natural Language Processing and Understanding techniques with multiple data representations for fetching the answer. Several algorithms are designed to implement the system. Studied various research papers on NLP and QA Systems, thus selected and implemented the best fit for the system. The system is properly tested with different kinds of test cases to which it responds correctly.
-        </description>
-        <tech_stack>
-            Python, PHP, XML-RPC, NLTK
         </tech_stack>
     </project>
     <project>
