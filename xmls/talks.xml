@@ -1,6 +1,52 @@
 <talks>
     <session>
         <title>
+            Federated Learning
+        </title>
+        <place>
+            Mumbai
+        </place>
+        <organizer>
+            Google Developer Group Mumbai
+        </organizer>
+        <organizer_link>
+            https://twitter.com/GDGCloudMumbai/status/1598374548621008896
+        </organizer_link>
+        <date>
+            5th December, 2022
+        </date>
+        <gist>
+            Federated Learning with Google's tensorflow - tff framework. TensorFlow Federated (TFF) is an open-source framework for machine learning and other computations on decentralized data. TFF has been developed to facilitate open research and experimentation with Federated Learning (FL), an approach to machine learning where a shared global model is trained across many participating clients that keep their training data locally.
+        </gist>
+        <link>
+            https://www.linkedin.com/posts/roshantanisha_devfest-devfest2022-gdg-activity-7007765242009018368-IyUt?utm_source=share&utm_medium=member_desktop
+        </link>
+    </session>
+    <session>
+        <title>
+            Federated Learning
+        </title>
+        <place>
+            Gandhinagar
+        </place>
+        <organizer>
+            Google Developer Group Gandhinagar
+        </organizer>
+        <organizer_link>
+            https://twitter.com/GDG_Gandhinagar/status/1592193395442978823
+        </organizer_link>
+        <date>
+            19th Novemeber, 2022
+        </date>
+        <gist>
+            Federated Learning with Google's tensorflow - tff framework. TensorFlow Federated (TFF) is an open-source framework for machine learning and other computations on decentralized data. TFF has been developed to facilitate open research and experimentation with Federated Learning (FL), an approach to machine learning where a shared global model is trained across many participating clients that keep their training data locally.
+        </gist>
+        <link>
+            https://www.linkedin.com/posts/roshantanisha_devfest2022-gdg-gandhinagar-activity-7001067219010875392-qB9X?utm_source=share&utm_medium=member_desktop
+        </link>
+    </session>
+    <session>
+        <title>
             Deep Convolutional Neural Networks and Future
         </title>
         <place>
