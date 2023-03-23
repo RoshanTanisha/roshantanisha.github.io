@@ -35,7 +35,7 @@ function handle_xml_document(xmlString) {
             $date_place_slide = '<div class="container-fluid"><span class="text-left"><i' +
                 ' class="fa fa-location-arrow"></i>' + $(this).find("place").text().trim() + '&nbsp;<i class="fa' +
                 ' fa-calendar-check-o"></i>' + $(this).find("date").text().trim() + '</span>&nbsp;<span' +
-                ' class="align-content-end"><i class="fa fa-slideshare"></i><a href="' + $slide_link + '">Slides</a></span></div>';
+                ' class="align-content-end"><i class="fa fa-slideshare"></i><a href="' + $slide_link + '">Link</a></span></div>';
             $codes = $(this).find("code");
 
             if ($codes.length !== 0) {
