@@ -1,5 +1,22 @@
 <talks>
     <session>
+        <title> 
+            ChatGPT
+        </title>
+        <place>
+            Online
+        </place>
+        <organizer>
+            Aga Khan Education Board (India)
+        </organizer>
+        <date>
+            11th February, 2023
+        </date>
+        <gist>
+            ChatGPT - taken the tech world by storm, how to utilize its power and understand the tech it is for students and professionals.
+        </gist>
+    </session>
+    <session>
         <title>
             Federated Learning
         </title>
